@@ -1,0 +1,4 @@
+module "cloudtrail" {
+  source = "../../"
+
+}
